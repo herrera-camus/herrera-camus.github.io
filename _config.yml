@@ -12,9 +12,9 @@ title                    : "Rodrigo Herrera-Camus"
 title_separator          : "-"
 name                     : &name "Rodrigo Herrera-Camus"
 description              : &description "Astronomer"
-url                      : #https://herrera-camus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://herrera-camus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
-repository               : #"herrera-camus/herrera-camus.github.io"
+repository               : "herrera-camus/herrera-camus.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
