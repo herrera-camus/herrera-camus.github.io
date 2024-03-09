@@ -27,7 +27,7 @@ author:
   bio              : "Astronomer"
   location         : "Concepción, Chile"
   employer         : "U. de Concepción"
-  uri              : ""
+  uri              : #""
   email            : #"rhc@astro-udec.cl"
 
   # Academic websites
